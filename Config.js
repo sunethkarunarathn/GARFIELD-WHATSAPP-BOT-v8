@@ -29,9 +29,9 @@ global.ownernomer = '+94770378874' //👈  Enter Your number
 global.ownername = 'SUNETH' //👈 Enter Your name
 global.botname = '❮ＳＵＫＩ ＭＤ❯' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 ＳＵＫＩＤ' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+global.ig = 'https://github.com/blackbotalpha/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'SRI-LANKA, ANURADAPURA, padaviya' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
+global.sc = 'https://github.com/blackbotalpha/GARFIELD-WHATSAPP-BOT-v8'
 global.fbt = 'ෆලෝ කරන්න ❮❤❯' // 👈 Enter (Subscribe/Follow/Like now)
 global.myweb = 'http://wa.me/+94770378874?text='// 👈 Enter your Social media link to follow now button
 global.welcome = '*සමූහයට සාදරයෙන් පිළිගමි🙏*' // 👈 You Can change this your choice
