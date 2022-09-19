@@ -1,5 +1,5 @@
 {
-  "name": "Garfield-Bot",
+  "name": "SUKI-Bot",
   "version": "8.4.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "TharinduLiyanage",
+  "author": "Sunethkarunarathna",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.4.0",
