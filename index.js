@@ -1,11 +1,11 @@
 // Hi  I m
-// Tharindu Liyanage 
+// SUNETH KARUNARATHNA 
 // I am 16 years old developer...
 // From Sri Lanka
 // I am a Learning.
 // Not more..
 // Also I am Student
-// Follow My Facebook - https://www.facebook.com/TharinduLiyanages
+// Follow My whats app - http://wa.me/+94770378874?text 
 require('./Config')
 const { default: GarfieldNeuralConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 const { state, saveState } = useSingleFileAuthState(`./${sessionName}.json`)
