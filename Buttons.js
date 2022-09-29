@@ -4,7 +4,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 // You can Change this Buttons
 // 👈 You Can change this your choice
-global.list = ('මේකෙන් මෙනුlist එක ගන්න☺')
+global.list = ('මේකෙන්list menu')
 global.allmenu = ('ඔක්කොම MENU ❤')
 global.script = ('ගිත්හබ්  ✌')
 global.owner = ('සුනෙත්❤')
