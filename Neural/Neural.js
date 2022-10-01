@@ -1,5 +1,5 @@
 // Hi  I m
-// Tharindu Liyanage 
+// SUNETH KARUNARATHNA 
 // I am 16 years old developer...
 // From Sri Lanka
 // I am a Learning.
