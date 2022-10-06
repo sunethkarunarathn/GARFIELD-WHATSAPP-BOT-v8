@@ -26,8 +26,8 @@ global.notice = ` *හායි කෝමද ඉතින්☺*
 global.owner =  ['+94768440031'] //👈  Enter Your number
 global.premium =  ['+94768440041'] //👈  Enter Your number
 global.ownernomer = '+94770378874' //👈  Enter Your number
-global.ownername = 'SUNETH' //👈 Enter Your name
-global.botname = '❮ＳＵＫＩ ＭＤ❯' //👈 Enter Your Bot name
+global.ownername = 'SUNETH තමා 𝘉𝘙𝘖 ...👼' //👈 Enter Your name
+global.botname = '❮ＳＵＫＩ ＭＤ❯ 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘴𝘶𝘯𝘦𝘵𝘩 𝘣𝘳𝘰 හායී කොහොමද ඔයාට හොදින්ද👋' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 ＳＵＫＩ-MD' //👈 Enter Your Name
 global.ig = 'https://github.com/blackbotalpha/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'SRI-LANKA, ANURADAPURA, padaviya' // 👈 You Can change this your choice
@@ -41,8 +41,8 @@ global.author = 'SUNETH DEVELOPMENT' // 👈 You Can change this your choice
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://telegra.ph/file/a2a0e670a3164e46f415f.jpg, upload a photo of your choice and put its link here
-global.thumb =  'https://telegra.ph/file/aa6468d5b74cf091bdec6.jpg' 
-global.spoty = 'https://telegra.ph/file/a2a0e670a3164e46f415f.jpg'
+global.thumb =  'https://telegra.ph/file/c71f303559321833e7ac5.jpg' 
+global.spoty = 'https://telegra.ph/file/9121405030a81863a9291.jpg'
 //Go to https://telegra.ph/file/f23d5a647cf5a3ff64cda.jpg, upload a photo of your choice and put its link here
 global.sp = '👋'
 global.mess = {
