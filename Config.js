@@ -13,8 +13,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
-global.emoji01 = ['❮𝚂𝚄𝙺𝙸❯'] // 👈 Enter your Emoji 
-global.emoji02 = ['❄🌹⃝❤️࿔⃟࿔'] //👈 Enter your Emoji
+global.emoji01 = ['🆂✛❓'] // 👈 Enter your Emoji 
+global.emoji02 = ['❄🌹⃝❤️࿔⃟࿔✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣'] //👈 Enter your Emoji
 global.notice = `🍂𝗛𝗘𝗟𝗟𝗢 𝗜,𝗠 𝗕𝗟𝗔𝗖𝗞 𝗦𝗬𝗕𝗘𝗥-𝗦𝗨𝗞𝗜🍂 𝗶,𝗺 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆 𝗯𝗹𝗮𝗰𝗸 𝘀𝘆𝗯𝗲𝗿-𝘀𝘂𝗸𝗶❮𝘀𝘂𝗻𝗲𝘁𝗵❯´*
 *SUNETH*
 *I am 16 years old developer...*
@@ -27,7 +27,7 @@ global.owner =  ['+94768440031'] //👈  Enter Your number
 global.premium =  ['+94768440041'] //👈  Enter Your number
 global.ownernomer = '+94770378874' //👈  Enter Your number
 global.ownername = 'SUNETH තමා 𝘉𝘙𝘖 ...👼' //👈 Enter Your name
-global.botname = '❮ＳＵＫＩ ＭＤ❯ 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘴𝘶𝘯𝘦𝘵𝘩 𝘣𝘳𝘰 හායී කොහොමද ඔයාට හොදින්ද👋' //👈 Enter Your Bot name
+global.botname = '❮ＳＵＫＩ ＭＤ❯ 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘴𝘶𝘯𝘦𝘵𝘩 𝘣𝘳𝘰❯ 📍මගෙ කෙනා කොහෙ ඉන්නවද මන්දා❓' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 ＳＵＫＩ-MD' //👈 Enter Your Name
 global.ig = 'https://github.com/blackbotalpha/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'SRI-LANKA, ANURADAPURA, padaviya' // 👈 You Can change this your choice
@@ -35,13 +35,13 @@ global.sc = 'https://github.com/blackbotalpha/GARFIELD-WHATSAPP-BOT-v8'
 global.fbt = 'ෆලෝ කරන්න ❮❤❯' // 👈 Enter (Subscribe/Follow/Like now)
 global.myweb = 'http://wa.me/+94770378874?text='// 👈 Enter your Social media link to follow now button
 global.welcome = '𝗛𝗜 𝗕𝗥𝗢 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗬𝗢𝗨*සමූහයට සාදරයෙන් පිළිගමි🙏 ඔයා හොදින් ඇති කියලා හිතනවා ඔයා හොදින්නම් එච්චරයි*' // 👈 You Can change this your choice
-global.bye = '*අල්ලන් හිටියේ නෑ යනවනන් පලයන් 😔 හිතින් යන අය අතින් අල්ලා නවත් වන්නට බෑ' // 👈 You Can change this your choice
+global.bye = '*අල්ලන් හිටියේ නෑ යනවනන් පලයන් 😔 හිතින් යන අය අතින් අල්ලා නවත් වන්නට බෑ🤪' // 👈 You Can change this your choice
 global.packname = 'SUKID'  // 👈 You Can change this your choice 
 global.author = 'SUNETH DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://telegra.ph/file/a2a0e670a3164e46f415f.jpg, upload a photo of your choice and put its link here
-global.thumb =  'https://telegra.ph/file/c71f303559321833e7ac5.jpg' 
+global.thumb =  'https://i.imgur.com/R9CzmJw.jpeg' 
 global.spoty = 'https://telegra.ph/file/9121405030a81863a9291.jpg'
 //Go to https://telegra.ph/file/f23d5a647cf5a3ff64cda.jpg, upload a photo of your choice and put its link here
 global.sp = '👋'
