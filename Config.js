@@ -13,9 +13,9 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
-global.emoji01 = ['➢֒👼'] // 👈 Enter your Emoji 
-global.emoji02 = ['〠☠'] //👈 Enter your Emoji
-global.notice = ` *හායි කෝමද ඉතින්☺*
+global.emoji01 = ['❮𝚂𝚄𝙺𝙸❯'] // 👈 Enter your Emoji 
+global.emoji02 = ['❄🌹⃝❤️࿔⃟࿔'] //👈 Enter your Emoji
+global.notice = `🍂𝗛𝗘𝗟𝗟𝗢 𝗜,𝗠 𝗕𝗟𝗔𝗖𝗞 𝗦𝗬𝗕𝗘𝗥-𝗦𝗨𝗞𝗜🍂 𝗶,𝗺 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆 𝗯𝗹𝗮𝗰𝗸 𝘀𝘆𝗯𝗲𝗿-𝘀𝘂𝗸𝗶❮𝘀𝘂𝗻𝗲𝘁𝗵❯´*
 *SUNETH*
 *I am 16 years old developer...*
 *From Sri Lanka 🇱🇰*
@@ -34,7 +34,7 @@ global.region = 'SRI-LANKA, ANURADAPURA, padaviya' // 👈 You Can change this y
 global.sc = 'https://github.com/blackbotalpha/GARFIELD-WHATSAPP-BOT-v8'
 global.fbt = 'ෆලෝ කරන්න ❮❤❯' // 👈 Enter (Subscribe/Follow/Like now)
 global.myweb = 'http://wa.me/+94770378874?text='// 👈 Enter your Social media link to follow now button
-global.welcome = '*සමූහයට සාදරයෙන් පිළිගමි🙏 ඔයා හොදින් ඇති කියලා හිතනවා ඔයා හොදින්නම් එච්චරයි*' // 👈 You Can change this your choice
+global.welcome = '𝗛𝗜 𝗕𝗥𝗢 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗬𝗢𝗨*සමූහයට සාදරයෙන් පිළිගමි🙏 ඔයා හොදින් ඇති කියලා හිතනවා ඔයා හොදින්නම් එච්චරයි*' // 👈 You Can change this your choice
 global.bye = '*අල්ලන් හිටියේ නෑ යනවනන් පලයන් 😔 හිතින් යන අය අතින් අල්ලා නවත් වන්නට බෑ' // 👈 You Can change this your choice
 global.packname = 'SUKID'  // 👈 You Can change this your choice 
 global.author = 'SUNETH DEVELOPMENT' // 👈 You Can change this your choice 
